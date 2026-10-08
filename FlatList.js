@@ -25,7 +25,7 @@ export default function games() {
       completed: false,
     };
 
-    setTasks([...tasks, newTask]);
+    setTasks([.tasks, newTask]);
     setInputText("");
   };
 
