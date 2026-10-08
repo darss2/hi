@@ -13,7 +13,6 @@ export default function games() {
   const [inputText, setInputText] = useState("");
   const [tasks, setTasks] = useState([]);
 
-  // Add a new task
   const addTask = () => {
     if (inputText.trim() === "") {
       return;
