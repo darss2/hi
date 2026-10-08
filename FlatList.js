@@ -9,7 +9,7 @@ import {
   StyleSheet,
 } from "react-native";
 
-export default function App() {
+export default function games() {
   const [inputText, setInputText] = useState("");
   const [tasks, setTasks] = useState([]);
 
