@@ -121,7 +121,7 @@ export default function games() {
         </Text>
       </View>
 
-      {/* Task List */}
+      }
       <FlatList
         data={tasks}
         keyExtractor={(item) => item.id}
