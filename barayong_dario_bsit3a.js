@@ -6,7 +6,7 @@ let isStudent = true;
 // array
 let gudgets =["cellphone", "Laptop", "TV"];
 let numbers = [5,10,15];
-let colors = ["black","White","blue"];
+let colors = ["black","White","orange"];
 
 //conditions
 if(age >=18){
