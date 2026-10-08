@@ -26,7 +26,7 @@ export default function App() {
         <Stack.Screen
           name="Home"
           component={HomeScreen}
-          options={{ title: "Student App" }}
+          options={{ title: "Student Akjbhpp" }}
         />
 
         <Stack.Screen
