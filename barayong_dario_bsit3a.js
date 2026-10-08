@@ -1,5 +1,5 @@
 //variables
-let name =" francis";
+let name ="dario";
 let age = 21;
 let isStudent = true;
 
